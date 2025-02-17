@@ -1,16 +1,16 @@
 # Credit Card Fraud Detection using Python and Machine Learning
 
 ## Table of Contents
-1. Overview
-2. Dataset
-3. Data Preprocessing
-4. Model training
-5. Model Evaluation
-6. Results and Insights
-7. How to run the project
-8. Conclusion
+1. [Project Overview](#project-overview)
+2. [Dataset](#dataset)
+3. [Data Preprocessing](#data-]re]rocessing)
+4. [Model training](#model-training)
+5. [Model Evaluation](#model-evaluation)
+6. [Results and Insights](#results-and-insights)
+7. [How to run the project](#how-to-run-the-project)
+8. [Conclusion](#conclusion)
 
-## 1. Overview
+## 1. Project Overview
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques.
 The dataset used for this project is a real-world dataset containing transactions made by credit cards, with a classification of whether each transaction is fraudulent or not.
