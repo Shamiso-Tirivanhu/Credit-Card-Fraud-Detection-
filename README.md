@@ -65,3 +65,4 @@ The dataset used is creditcard.csv, which consists of:
 
 This project demonstrates the effectiveness of machine learning techniques in detecting fraudulent transactions.
 Future improvements can include trying different models, tuning hyperparameters, and using deep learning techniques.
+Furthermore, the project also demonstrated that logistic regression is the best algorithm to use as this datset dealt with binary values.
