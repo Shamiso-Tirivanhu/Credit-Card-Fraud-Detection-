@@ -29,7 +29,7 @@ The dataset used is creditcard.csv, which consists of:
 
 - Checking for missing values and handling them accordingly.
   
-- The dataset was largely imbalanced. To circumvent this, the data set was split into fraudent transactions(fraud) and normal transactions(legit).
+- The dataset was largely imbalanced. To circumvent this, the data set was split into fraudent transactions(fraud) and normal transactions(legit). Please refer to the picture below.
 
 - Feature scaling and selection.
 
@@ -52,7 +52,7 @@ The dataset used is creditcard.csv, which consists of:
 - Addressing the issue of imbalanced data using techniques like SMOTE or class weighting.
 
 
-![Image_Alt](![image]( https://github.com/Shamiso-Tirivanhu/Credit-Card-Fraud-Detection-/blob/47723804aa79fdd698f1e425bb18d4fc3aa4c7c0/Credit%20Card%20Fraud%20Detection%20picture.png)
+![Image_Alt]( https://github.com/Shamiso-Tirivanhu/Credit-Card-Fraud-Detection-/blob/47723804aa79fdd698f1e425bb18d4fc3aa4c7c0/Credit%20Card%20Fraud%20Detection%20picture.png)
 
 
 
