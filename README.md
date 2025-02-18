@@ -45,6 +45,12 @@ The dataset used is creditcard.csv, which consists of:
 
 - Addressing the issue of imbalanced data using techniques like SMOTE or class weighting.
 
+
+![Image_Alt](![image]()
+
+
+
+
 ## 6. Results and Insights
 
 - Discussion on the effectiveness of the chosen model.
