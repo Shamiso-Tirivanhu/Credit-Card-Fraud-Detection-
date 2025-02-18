@@ -28,6 +28,10 @@ The dataset used is creditcard.csv, which consists of:
 - Loading the dataset using Pandas.
 
 - Checking for missing values and handling them accordingly.
+  
+- The dataset was largely imbalanced. To circumvent this, the data set was split into fraudent transactions and normal transactions.
+  
+- 492 data samples of data sets was taken from the imbalanced data which was 
 
 - Feature scaling and selection.
 
@@ -46,16 +50,19 @@ The dataset used is creditcard.csv, which consists of:
 - Addressing the issue of imbalanced data using techniques like SMOTE or class weighting.
 
 
-![Image_Alt](![image]()
+![Image_Alt](![image]( https://github.com/Shamiso-Tirivanhu/Credit-Card-Fraud-Detection-/blob/47723804aa79fdd698f1e425bb18d4fc3aa4c7c0/Credit%20Card%20Fraud%20Detection%20picture.png)
 
 
 
+What we can see from the image above is that the model works perfectly as the training dataset accuracy score is not significantly larger or miniscule than the testing data set. The model does not have issue with underfitting or overfitting.
 
 ## 6. Results and Insights
 
-- Discussion on the effectiveness of the chosen model.
+- The model works perfectly as the training dataset accuracy score is not significantly larger or miniscule than the testing data set.
+  
+- The model does not have issue with underfitting or overfitting.
 
-- Insights into how well fraudulent transactions are detected.
+- There wre not a lot of issues with 
 
 - Possible improvements and future work.
 
